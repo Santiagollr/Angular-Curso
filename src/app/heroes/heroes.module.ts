@@ -10,7 +10,8 @@ import { Listado2Component } from './listado2/listado2.component';
     Listado2Component
   ],
   exports: [
-    Listado2Component
+    Listado2Component,
+    HeroeComponent
   ],
   imports: [
     CommonModule
